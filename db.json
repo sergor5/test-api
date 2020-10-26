@@ -1,0 +1,244 @@
+{
+  "IndexSolFirsatlar": [
+    {
+      "firsat_adi": "Uygulamayı indir, Lezzeti Kazan !",
+      "FirsatID": "47",
+      "firsat_fiyat_yeni": "0",
+      "firsat_fiyat_eski": "25",
+      "thumb": "2020/03/thumb-uygulamayi-indir-lezzeti-kazan.png"
+    },
+    {
+      "firsat_adi": "Profesyonel Hocalar Eşliğinde İngilizce Kursu",
+      "FirsatID": "45",
+      "firsat_fiyat_yeni": "199",
+      "firsat_fiyat_eski": "450",
+      "thumb": "2019/01/thumb/profesyonel-hocalar-esliginde-ingilizce-kursu.jpg"
+    }
+  ],
+  "IndexIlanlar": [
+    {
+      "id": "884",
+      "ilanbaslik": "SAMSUN SOLUCAN GÜBRESİ 0544 843 1 943 ÜRETİCİ SATICI BAYİ FİYATLARI",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/10/thumb-samsun-solucan-gubresi-0544-843-1-943-uretici-satici-bayi-fiyatlari.jpg",
+      "ilanfiyat": "3",
+      "ilankur": "TL"
+    },
+    {
+      "id": "883",
+      "ilanbaslik": "SİLİVRİ ÇANTADA SATILIK İMARLI ARSA",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/10/thumb-silivri-cantada-satilik-imarli-arsa_2.jpg",
+      "ilanfiyat": "60000",
+      "ilankur": "TL"
+    },
+    {
+      "id": "880",
+      "ilanbaslik": "KÖYCEĞİZ BAL DÜKKANI ÇİÇEK BALI 850 GR.",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/10/thumb-koycegiz-bal-dukkani-cicek-bali-850-gr.jpg",
+      "ilanfiyat": "70",
+      "ilankur": "TL"
+    },
+    {
+      "id": "879",
+      "ilanbaslik": "KÖYCEĞİZ BAL DÜKKANI ÇAM BALI 850 GR.",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/10/thumb-koycegiz-bal-dukkani-cam-bali-850-gr.jpg",
+      "ilanfiyat": "60",
+      "ilankur": "TL"
+    },
+    {
+      "id": "878",
+      "ilanbaslik": "heets perpa iqos İQQS ELEKTRONİK SİGARA",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-heets-perpa-iqos-iqqs-elektronik-sigara.jpg",
+      "ilanfiyat": "0",
+      "ilankur": "TL"
+    },
+    {
+      "id": "877",
+      "ilanbaslik": "KAYA VİP TRAVEL",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-kaya-vip-travel_1.jpg",
+      "ilanfiyat": "0",
+      "ilankur": "TL"
+    },
+    {
+      "id": "876",
+      "ilanbaslik": "KAYA VİP TRAVEL",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-kaya-vip-travel.jpg",
+      "ilanfiyat": "0",
+      "ilankur": "TL"
+    },
+    {
+      "id": "875",
+      "ilanbaslik": "Tamamen Organik Köy Ördeği ",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-tamamen-organik-koy-ordegi_1.jpg",
+      "ilanfiyat": "70",
+      "ilankur": "TL"
+    },
+    {
+      "id": "873",
+      "ilanbaslik": "juul juul pods",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-juul-juul-pods.jpg",
+      "ilanfiyat": "0",
+      "ilankur": "TL"
+    },
+    {
+      "id": "872",
+      "ilanbaslik": "Krinkıl Krep Şal Modelleri ",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-krinkil-krep-sal-modelleri.jpg",
+      "ilanfiyat": "0",
+      "ilankur": "TL"
+    },
+    {
+      "id": "871",
+      "ilanbaslik": "Keten Pamuk Şal Modelleri",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-keten-pamuk-sal.jpg",
+      "ilanfiyat": "35",
+      "ilankur": "TL"
+    },
+    {
+      "id": "870",
+      "ilanbaslik": "Pamuklu Pıt Pıt Şal Modelleri",
+      "ilanonay": "Aktif",
+      "avitrin": null,
+      "avitrin_bitis": null,
+      "ilan_kapak_thumb": "2020/09/thumb-sal-modelleri_2.jpg",
+      "ilanfiyat": "35",
+      "ilankur": "TL"
+    }
+  ],
+  "FirmaVitrini": [
+    {
+      "firma_logo": "2019/11/sarimert-yapi-insaat-sakarya.png",
+      "FirmaID": "10715",
+      "firma_adi": "SARIMERT YAPI & İNŞAAT SAKARYA"
+    },
+    {
+      "firma_logo": "2020/01/ofisada-plaza.jpg",
+      "FirmaID": "33587",
+      "firma_adi": "OFİSADA PLAZA"
+    },
+    {
+      "firma_logo": "2020/01/krlrmcioglu.jpg",
+      "FirmaID": "33565",
+      "firma_adi": "KELEMCİOĞLU OTEL"
+    },
+    {
+      "firma_logo": "2019/12/helal-dunyam-marketleri-adana.jpg",
+      "FirmaID": "115",
+      "firma_adi": "Helal Dünyam Marketleri Adana"
+    },
+    {
+      "firma_logo": "2020/02/imbat-sogutma-isitma-ltd-sti_4.jpg",
+      "FirmaID": "33620",
+      "firma_adi": "İMBAT SOĞUTMA ISITMA LTD.ŞTİ."
+    },
+    {
+      "firma_logo": "2020/01/karadenizsepeti-com.jpeg",
+      "FirmaID": "33580",
+      "firma_adi": "Karadenizsepeti.Com"
+    },
+    {
+      "firma_logo": "2020/03/ege-asal-metal-san-tic-ltd-sti.jpg",
+      "FirmaID": "33638",
+      "firma_adi": "EGE ASAL METAL SAN. TİC. LTD. ŞTİ."
+    },
+    {
+      "firma_logo": "2020/02/defne-gubre_1.png",
+      "FirmaID": "33632",
+      "firma_adi": "DEFNE GÜBRE"
+    },
+    {
+      "firma_logo": "2020/02/panino-pizza.png",
+      "FirmaID": "33642",
+      "firma_adi": "PANİNO PİZZA"
+    },
+    {
+      "firma_logo": "2019/11/cafe-rubato-sakarya.png",
+      "FirmaID": "10714",
+      "firma_adi": "Cafe Rubato Sakarya"
+    },
+    {
+      "firma_logo": "2020/01/sun-kuruyemis-mersin.jpeg",
+      "FirmaID": "12482",
+      "firma_adi": "SUN KURUYEMİŞ MERSİN"
+    },
+    {
+      "firma_logo": "2020/01/fatih-baklava.png",
+      "FirmaID": "25257",
+      "firma_adi": "Fatih Baklava"
+    }
+  ],
+  "IndexSlider": [
+    {
+      "SlideID": "18",
+      "slide_resim": "uploads/slider/2020/03/d5c712e96ac3d65ac2a64045e99e03bf700fb503.jpg",
+      "slide_url": "https://firmadan.com/firma/33620/imbat-sogutma-isitma-ltd-sti/",
+      "slide_sira": "1",
+      "slide_yazi_a": "",
+      "slide_yazi_b": ""
+    },
+    {
+      "SlideID": "19",
+      "slide_resim": "uploads/slider/2020/03/9dc0ba8b33041b8b1f81b14a85f05829779dbdff.jpg",
+      "slide_url": "https://firmadan.com/firma/33642/panino-pizza/",
+      "slide_sira": "3",
+      "slide_yazi_a": "",
+      "slide_yazi_b": ""
+    },
+    {
+      "SlideID": "15",
+      "slide_resim": "uploads/slider/2020/03/2bf4e291a6ff523ed34d9dae57f186b256c4501b.jpg",
+      "slide_url": "https://firmadan.com/firma/33638/ege-asal-metal-san-tic-ltd-sti/",
+      "slide_sira": "5",
+      "slide_yazi_a": "",
+      "slide_yazi_b": ""
+    },
+    {
+      "SlideID": "16",
+      "slide_resim": "uploads/slider/2019/09/271a18e2bb007b929699b81b8945174025a671aa.jpg",
+      "slide_url": "/sektor/21/insaat/",
+      "slide_sira": "6",
+      "slide_yazi_a": "",
+      "slide_yazi_b": ""
+    },
+    {
+      "SlideID": "17",
+      "slide_resim": "uploads/slider/2019/09/a04004d761ecdb2aef69aba8e395568cc6cd2911.jpg",
+      "slide_url": "/sektor/31/nakliye-firmalari/",
+      "slide_sira": "7",
+      "slide_yazi_a": "",
+      "slide_yazi_b": ""
+    }
+  ]
+}
