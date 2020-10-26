@@ -247,51 +247,5 @@
       "uye_adi_soyadi": "Demo isim",
       "uye_mail": "demo2@demo.com"
     }
-  ],
-  "doviz": [
-    {
-      "data": [
-        {
-          "SEMBOL": "TAHVIL",
-          "KAPANIS": 13.91,
-          "YUZDEDEGISIM": -0.22
-        },
-        {
-          "SEMBOL": "XU100",
-          "KAPANIS": 1144.45,
-          "YUZDEDEGISIM": -3.88
-        },
-        {
-          "SEMBOL": "BRENT",
-          "KAPANIS": 40.84,
-          "YUZDEDEGISIM": 0.02
-        },
-        {
-          "SEMBOL": "EURTRY",
-          "KAPANIS": 9.5642,
-          "YUZDEDEGISIM": 0.13
-        },
-        {
-          "SEMBOL": "EURUSD",
-          "KAPANIS": 1.18106,
-          "YUZDEDEGISIM": 0.01
-        },
-        {
-          "SEMBOL": "GLDGR",
-          "KAPANIS": 494.873,
-          "YUZDEDEGISIM": 0.09
-        },
-        {
-          "SEMBOL": "USDTRY",
-          "KAPANIS": 8.0911,
-          "YUZDEDEGISIM": 0.1
-        },
-        {
-          "SEMBOL": "GBPTRY",
-          "KAPANIS": 10.5455,
-          "YUZDEDEGISIM": 0.09
-        }
-      ]
-    }
   ]
 }
